@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 My past projects: 
+ - [ASI_Movies](https://github.com/zalewskaz/ASI_movies): a simple app for exploring popular movies and their availability on various streaming platforms. The data is acquired using TMDB and Watchmode APIs through an ETL process written in Python, which injects the data into a PostgreSQL database; we also implement a backend API using FastAPI and frontend with HTML, CSS, and Javascript. The entire application is also contenerised using Docker.
  - [Image Processing App](https://github.com/Martyna-265/Image-processing-project/tree/main): an image processing app in Java, which implements (from scratch) all basic pixel operations (grayscale, negative, binarization, brightness, contrast), some graphic filters (blurring, sharpening, edge detection, custom masks), and a few morphology operations (erosion, dilation, opening, closing).
  - [Iris Recognition App](https://github.com/zabolot7/iris-recognition-project): an iris recognition app in Java, which implements the Daugman Algorithm in order to generate an iris code and allows the user to compare the codes of two different iris pictures.
  - [Fingerprint Recognition Project](https://github.com/zabolot7/fingerprint-recognition-project): a fingerprint recognition app in Java, which implements three various line thinning algorithms (morphological, KMM, K3M), finds and marks minutiae on a fingerprint scan, and allows the user to compare the effect of various thinning algorithms.
